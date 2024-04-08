@@ -1,8 +1,8 @@
-# Test Helper
+# TestForge
 
 ## Overview
 
-The Test Helper is a Java program built with Java and JavaFX for creating and managing question stocks. It allows users to add both open and multiple-choice questions along with answers, which are then saved into a question stock file. Users can then utilize the question stock to generate tests either manually or automatically and export them as text files. Additionally, answers can be exported separately as text files.
+TestForge is a Java program built with Java and JavaFX for creating and managing question stocks. It allows users to add both open and multiple-choice questions along with answers, which are then saved into a question stock file. Users can then utilize the question stock to generate tests either manually or automatically and export them as text files. Additionally, answers can be exported separately as text files.
 * Side note: an "American Question" is a multiple choice question.
 
 ## Features
