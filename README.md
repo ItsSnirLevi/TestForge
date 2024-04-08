@@ -41,7 +41,7 @@ The Files are stores in the same directory as the project.
 ## Installation
 
 1. Clone the repository to your local machine.
-git clone https://github.com/ItsSnirLevi/TestHelper.git
+`git clone https://github.com/ItsSnirLevi/TestHelper.git`
 2. Open the project in your preferred Java IDE.
 3. Run the `Main.java` file to launch the application.
 
